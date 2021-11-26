@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+body{
+	background-color: #000000;
+	color:aqua;	
+}
+h1{
+	color:aquamarine;
+}
+@media(min-width:1024px){
+	body{
+		background-color: aquamarine;
+		color: cadetblue;
+	}
+}
+	

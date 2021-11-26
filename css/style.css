@@ -1,0 +1,379 @@
+@charset "utf-8";
+
+header{
+background-color: #0378A6;
+color: #D9CD30;
+height: 100px;
+text-align: center;
+padding-top: 20px;
+font-family:nunito;
+}
+
+
+.estilo_nav{
+background-color: #A0A603;
+display: flex;
+height: auto;
+justify-content: space-between;
+padding-right: 10px;
+padding-left: 10px;
+font-family: nunito;
+list-style-type: none;
+padding-top: 10px;
+color: #F0F2DC;
+font-style: normal;
+text-align: center;
+padding-bottom: 10px;
+margin-top: 0px;
+}
+.estilo_nav> li{
+display: flex;
+background-color: #D9CD30;
+text-align: center;
+width: auto;
+height: auto;
+justify-content: center;
+align-content: center;
+padding-top: 14px;
+padding-right: 30px;
+padding-left: 30px;
+padding-bottom: 5px;
+flex-direction: row;
+}
+
+footer  {
+    background-color: #F986A5;
+    color: #B50B39;
+    height: auto;
+}
+
+
+body header, section, footer, main{
+    margin: 0 auto;
+    width: 100%;
+}
+main {
+    background-color: #D9CD30;
+    margin: 0 auto;
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 46px;
+}
+footer h5 {
+background-color:#024873;
+margin: 0 auto;
+color:#FFFFFF;
+padding-top: 30px;
+padding-bottom: 30px;
+text-align: center;
+font-family: nunito;
+}
+
+main section  {
+    width: 88%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    background-color: #0D93E7;
+    height: auto;
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-left: 35px;
+    padding-bottom: 35px;
+    border-style: outset;
+    border-width: 5px;
+    -ms-scrollbar-shadow-color: over;
+}
+main section h2 {
+    padding-bottom: 30px;
+    color: #D9CD30;
+    font-weight: 700;
+    font-style: normal;
+    font-family: nunito;
+
+
+}
+#link2 {
+}
+a:link{
+color:#FFFFFF;
+text-decoration: none;
+font-weight:bolder
+}
+a:active{
+color: #024873;
+text-decoration: none;
+font-weight: bolder;
+}
+a:hover{
+color:#0378A6;
+text-decoration: none;
+font-weight: bolder;
+}
+#link3 {
+}
+#link4 {
+}
+#link5 {
+}
+section p {
+    color: #FFFFFF;
+	font-family: nunito;
+}
+#imag1 {
+    border: 3px solid #A0A603;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 0vmax;
+}
+#imag1 {
+    margin-top: 20px;
+    width: 32%;
+    height: 0%;
+}
+.picture_2 {
+    width: 50%;
+    height: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.cheems {
+    margin-bottom: 11px;
+
+}
+.Texto2op {
+    color: #F9F6CF;
+    font-family: montserrat;
+    font-size: small;
+    margin-bottom: 100px;
+    font-style: normal;
+    font-weight: 400;
+}
+.cheems2 {
+    width: 31%;
+    height: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 35px;
+}
+.cheems3 {
+    width: 31%;
+    height: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 120px 120px 120px 201px;
+}
+.cheems4 {
+    width: 31%;
+    height: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 35px 116px 35px 109px;
+}
+.filtro1 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: contrast;
+}
+.filtro2 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: opacity(79%);
+}
+.filtro3 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: blur(6px);
+}
+.filtro4 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: opacity(30%);
+}
+.filtro5 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: opacity(80%);
+}
+.filtro6 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: contrast(500%);
+}
+.filtro7 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: contrast(40%);
+}
+.filtro8 {
+    width: 48%;
+    height: 0%;
+    margin-right: 5px;
+    filter: vanilla40
+%);
+    filter: black
+&white;
+    filter: contrast(150%);
+}
+#audio {
+    width: 50%;
+    height: 0%;
+    margin-top: 23px;
+}
+.video1 {
+    width: 73%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 36px;
+}
+.video2 {
+    width: 73%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.video4 {
+    width: 79%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.video3 {
+    width: 73%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22px;
+}
+.vid2 {
+    width: 53%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+imag3 {
+    display: none;
+    height: 0%;
+}
+.img4 {
+    display: inline-block;
+    clear: left;
+    float: left;
+    margin-right: 21px;
+    width: 14%;
+    margin-bottom: 23px;
+}
+.Imagenlinkeadacheems {
+    width: 39%;
+    height: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    filter: sepia;
+}
+
+}
+input[type=text],input[type=number],input[type=password]{
+    background-color: #A0A603;
+    color: white;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    height: 30px;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
+input[type=submit]{
+    background-color: #D9CD30;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    box-sizing: border-box;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+    color: #505303;
+}
+select, select option{
+	background-color:#A0A603;
+	width: 150px;
+	height: 40px;
+	padding: 10px;
+	margin: 10px;
+	font-size: 18px;
+}
+.parrafo_formulario,label{
+    font-size: 18px;
+    color: #FFFFFF;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
+textarea {
+    height: 100px;
+    color: #8B9007;
+    background-color: #EFE134;
+    font-size: 15px;
+}
+.section {
+}
+.textgral {
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
+.imag1 {
+}
+.Indeximag {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.listas1 {
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+    color: #FFFFFF;
+}
+.listas2 {
+    color: #FFFFFF;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
+.listas3 {
+    color: #FFFFFF;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
+.listas4 {
+    color: #FFFFFF;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
+.listas5 {
+    color: #FFFFFF;
+    font-family: nunito;
+    font-style: normal;
+    font-weight: 300;
+}
